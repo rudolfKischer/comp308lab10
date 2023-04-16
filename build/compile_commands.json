@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/rudolfkischer/MCGILL/COMP308/Labs/lab10/comp308lab10/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/rudolfkischer/MCGILL/COMP308/Labs/lab10/comp308lab10/. -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/System/Library/Frameworks -isystem /opt/homebrew/include -g -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/comp308lab10.dir/lab10.cpp.o -c /Users/rudolfkischer/MCGILL/COMP308/Labs/lab10/comp308lab10/lab10.cpp",
+  "file": "/Users/rudolfkischer/MCGILL/COMP308/Labs/lab10/comp308lab10/lab10.cpp",
+  "output": "CMakeFiles/comp308lab10.dir/lab10.cpp.o"
+}
+]
