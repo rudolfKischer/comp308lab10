@@ -1,0 +1,8 @@
+cmake_minimum_required(VERSION 3.22)
+project(comp308lab10)
+set(CMAKE_CXX_STANDARD 11)
+include_directories(.)
+add_executable(comp308lab10 lab10.cpp)
+find_package(glfw3 3.3.8 REQUIRED)
+find_package(OpenGL REQUIRED)
+target_link_libraries(comp308lab10 OpenGL::GL glfw)
